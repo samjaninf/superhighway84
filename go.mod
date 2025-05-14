@@ -1,6 +1,6 @@
 module github.com/mrusme/superhighway84
 
-go 1.20
+go 1.23.0
 
 require (
 	berty.tech/go-orbit-db v1.22.0
@@ -149,7 +149,6 @@ require (
 	github.com/marten-seemann/tcp v0.0.0-20210406111302-dfbc87cc63fd // indirect
 	github.com/mattn/go-isatty v0.0.18 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/miekg/dns v1.1.53 // indirect
 	github.com/mikioh/tcpinfo v0.0.0-20190314235526-30a79bb1804b // indirect
 	github.com/mikioh/tcpopt v0.0.0-20190314235656-172688c1accc // indirect
@@ -173,12 +172,12 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/polydawn/refmt v0.89.0 // indirect
-	github.com/prometheus/client_golang v1.14.0 // indirect
-	github.com/prometheus/client_model v0.3.0 // indirect
-	github.com/prometheus/common v0.42.0 // indirect
-	github.com/prometheus/procfs v0.9.0 // indirect
-	github.com/quic-go/qpack v0.4.0 // indirect
-	github.com/quic-go/quic-go v0.42.0 // indirect
+	github.com/prometheus/client_golang v1.19.1 // indirect
+	github.com/prometheus/client_model v0.5.0 // indirect
+	github.com/prometheus/common v0.48.0 // indirect
+	github.com/prometheus/procfs v0.12.0 // indirect
+	github.com/quic-go/qpack v0.5.1 // indirect
+	github.com/quic-go/quic-go v0.48.2 // indirect
 	github.com/quic-go/webtransport-go v0.5.2 // indirect
 	github.com/raulk/go-watchdog v1.3.0 // indirect
 	github.com/rivo/uniseg v0.4.3 // indirect
@@ -216,7 +215,7 @@ require (
 	go.uber.org/multierr v1.11.0 // indirect
 	go4.org v0.0.0-20200411211856-f5505b9728dd // indirect
 	golang.org/x/crypto v0.36.0 // indirect
-	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
+	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842 // indirect
 	golang.org/x/image v0.18.0 // indirect
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/net v0.38.0 // indirect
